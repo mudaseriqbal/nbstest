@@ -55,7 +55,7 @@
     
     [a release];
     NSLog(@"retain count after %d", [a retainCount]);
-    
+    //test
     // Do any additional setup after loading the view, typically from a nib.
 }
 
